@@ -1,2 +1,2 @@
 # TiESC
-ESC Controller Library
+ESC Controller Library for Arduino
