@@ -1,4 +1,4 @@
 TiESC	KEYWORD1
 fire	KEYWORD2
-throttle	KEYWORD3
+throttle	KEYWORD2
 balance	KEYWORD2

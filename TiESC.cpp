@@ -31,7 +31,6 @@ void TiESC::fire(){
 	//Writing maximum output;
 	balance(100);
 	delay(1000);
-	balance(0);
 	//Writing minimum output;
 	write(MIN_SIGNAL, MIN_SIGNAL, MIN_SIGNAL, MIN_SIGNAL);
 	delay(2000);
