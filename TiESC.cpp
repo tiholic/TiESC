@@ -1,5 +1,5 @@
 /*
-  TiESC.h - Library for Firing ESC's.
+  TiESC - Library for Firing ESC's.
   Created by Rohit R. Abbadi, August 2, 2017.
   In the private domain.
 */
