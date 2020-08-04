@@ -14,7 +14,7 @@ void setup() {
   
 void loop() {
 	/**
-	* throttling up the ESC controller
+	* Throttling up all ESC's to 15%
 	**/
-	propellor.throttle(100);
+	propellor.throttle(15, 15, 15, 15);
 }
